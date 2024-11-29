@@ -24,7 +24,7 @@
 
                 <div class="contenido">
 
-                    <h1>Bienvenido</h1>
+                    <h1>Bienvenido nuevo usuario </h1>
 
                     <form class="formulario">
 
